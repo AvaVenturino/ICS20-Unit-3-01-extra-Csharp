@@ -1,5 +1,5 @@
 // Created by: Ava Venturino
-// Created on: March 22 2022
+// Created on: March 2022
 //
 // This program accepts user input
 
@@ -28,7 +28,7 @@ class Program
         Double area = ((baseA + baseB) / 2) * height;
 
         Console.WriteLine("");
-        Console.Write("Area of the trapezoid = " + area + " mm²");
+        Console.Write("Area of the trapezoid = " + area + " mm³");
         Console.ReadKey();
         Console.WriteLine("\nDone.");
     }
